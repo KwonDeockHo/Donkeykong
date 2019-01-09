@@ -1,6 +1,9 @@
 # Donkeykong
 Demo Games Using Cocos-2d. 
 
+<a href="http://kon9383.godohosting.com/content/class/class_02.php" target="_blank">홈페이지 바로가기</a>
+
+
 #PC/Android #Cocos 2D-X (2.1.4) #Contains Tutorial #First Game Using Game Engine
 
 이 게임은 Nintendo사의 ‘Super Mario’를 기반으로 변형적인 기획을 통해 기존의 슈퍼마리오와 차별화시키기 위한 첫번째 게임이다. 
